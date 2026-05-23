@@ -1,3 +1,3 @@
-# Intellistra-HRAgency
+# hr-agency-erp
 
-H R Agency ERP — powered by APPNEURAL
+Hr Agency ERP — powered by APPNEURAL
